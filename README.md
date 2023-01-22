@@ -1,2 +1,9 @@
-# Strapi
-Ver. 3 -> Ver. 4
+#  - Powerful by Strapi CMS
+
+Author: nouthemes
+Developed: diaryforlife
+ 
+ ### Account login 
+
+ admin@admin.com
+ Admin@123
